@@ -8,5 +8,6 @@ samples/:样例程序目录
 tools/:项目支撑工具目录
 app/：入口程序
 test/: 测试数据
+config/：保存配置文件
 Makefile:项目构建配置文件，当然也有可能是其他类型的构建配置文件,比如bjam
 README:项目的总体说明文件
